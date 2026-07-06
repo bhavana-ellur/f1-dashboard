@@ -4,7 +4,7 @@
 
 A full-featured Formula 1 analytics dashboard built with React — combining live standings, race schedules, weather forecasts, telemetry, and lap time data with two custom-built tools: a pit strategy simulator and a race winner prediction model.
 
-
+**[Live Demo](https://your-actual-vercel-url.vercel.app)**
 
 ![F1 Analytics Dashboard screenshot](image.png)
 
