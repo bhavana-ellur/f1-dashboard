@@ -1,0 +1,28 @@
+const trackDetails = {
+  albert_park: { length: "5.278 km", laps: 58, lapRecord: "1:19.813", degradation: "medium" },
+  shanghai: { length: "5.451 km", laps: 56, lapRecord: "1:32.238", degradation: "high" },
+  suzuka: { length: "5.807 km", laps: 53, lapRecord: "1:30.983", degradation: "medium" },
+  bahrain: { length: "5.412 km", laps: 57, lapRecord: "1:31.447", degradation: "high" },
+  jeddah: { length: "6.174 km", laps: 50, lapRecord: "1:25.734", degradation: "low" },
+  miami: { length: "5.412 km", laps: 57, lapRecord: "1:29.708", degradation: "medium" },
+  imola: { length: "4.909 km", laps: 63, lapRecord: "1:15.484", degradation: "low" },
+  monaco: { length: "3.337 km", laps: 78, lapRecord: "1:12.909", degradation: "low" },
+  catalunya: { length: "4.657 km", laps: 66, lapRecord: "1:16.330", degradation: "high" },
+  villeneuve: { length: "4.361 km", laps: 70, lapRecord: "1:13.078", degradation: "medium" },
+  red_bull_ring: { length: "4.318 km", laps: 71, lapRecord: "1:05.619", degradation: "medium" },
+  silverstone: { length: "5.891 km", laps: 52, lapRecord: "1:27.097", degradation: "high" },
+  spa: { length: "7.004 km", laps: 44, lapRecord: "1:41.252", degradation: "medium" },
+  hungaroring: { length: "4.381 km", laps: 70, lapRecord: "1:16.627", degradation: "low" },
+  zandvoort: { length: "4.259 km", laps: 72, lapRecord: "1:11.097", degradation: "medium" },
+  monza: { length: "5.793 km", laps: 53, lapRecord: "1:21.046", degradation: "low" },
+  baku: { length: "6.003 km", laps: 51, lapRecord: "1:43.009", degradation: "low" },
+  marina_bay: { length: "4.940 km", laps: 62, lapRecord: "1:30.984", degradation: "medium" },
+  americas: { length: "5.513 km", laps: 56, lapRecord: "1:32.029", degradation: "high" },
+  rodriguez: { length: "4.304 km", laps: 71, lapRecord: "1:17.774", degradation: "medium" },
+  interlagos: { length: "4.309 km", laps: 71, lapRecord: "1:10.540", degradation: "high" },
+  vegas: { length: "6.201 km", laps: 50, lapRecord: "1:35.490", degradation: "low" },
+  losail: { length: "5.419 km", laps: 57, lapRecord: "1:24.319", degradation: "high" },
+  yas_marina: { length: "5.281 km", laps: 58, lapRecord: "1:26.103", degradation: "medium" },
+};
+
+export default trackDetails;

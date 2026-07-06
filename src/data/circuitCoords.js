@@ -1,0 +1,28 @@
+const circuitCoords = {
+  albert_park: { lat: -37.8497, lon: 144.968 },
+  shanghai: { lat: 31.3389, lon: 121.2198 },
+  suzuka: { lat: 34.8431, lon: 136.5410 },
+  bahrain: { lat: 26.0325, lon: 50.5106 },
+  jeddah: { lat: 21.6319, lon: 39.1044 },
+  miami: { lat: 25.9581, lon: -80.2389 },
+  imola: { lat: 44.3439, lon: 11.7167 },
+  monaco: { lat: 43.7347, lon: 7.4206 },
+  catalunya: { lat: 41.57, lon: 2.2611 },
+  villeneuve: { lat: 45.5, lon: -73.5228 },
+  red_bull_ring: { lat: 47.2197, lon: 14.7647 },
+  silverstone: { lat: 52.0786, lon: -1.0169 },
+  spa: { lat: 50.4372, lon: 5.9714 },
+  hungaroring: { lat: 47.5789, lon: 19.2486 },
+  zandvoort: { lat: 52.3888, lon: 4.5409 },
+  monza: { lat: 45.6156, lon: 9.2811 },
+  baku: { lat: 40.3725, lon: 49.8533 },
+  marina_bay: { lat: 1.2914, lon: 103.8640 },
+  americas: { lat: 30.1328, lon: -97.6411 },
+  rodriguez: { lat: 19.4042, lon: -99.0907 },
+  interlagos: { lat: -23.7036, lon: -46.6997 },
+  vegas: { lat: 36.1147, lon: -115.1728 },
+  losail: { lat: 25.49, lon: 51.4542 },
+  yas_marina: { lat: 24.4672, lon: 54.6031 },
+};
+
+export default circuitCoords;
