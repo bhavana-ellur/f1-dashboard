@@ -6,7 +6,7 @@ A full-featured Formula 1 analytics dashboard built with React — combining liv
 
 
 
-![alt text](image.png)
+![F1 Analytics Dashboard screenshot](image.png)
 
 ---
 
